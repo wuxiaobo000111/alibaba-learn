@@ -9,6 +9,7 @@
   <version>1.0.0-SNAPSHOT</version>
   <modules>
     <module>nacos-spring-config-example</module>
+      <module>nacos-spring-discovery-example</module>
   </modules>
   <packaging>pom</packaging>
 
