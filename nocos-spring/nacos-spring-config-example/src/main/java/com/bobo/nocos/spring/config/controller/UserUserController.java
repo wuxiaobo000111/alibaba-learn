@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @create 2019-01-12 11:03
  **/
 @RestController(value = "user")
+@RequestMapping(produces="application/json;charset=UTF-8")
 public class UserUserController {
 
     @Autowired
