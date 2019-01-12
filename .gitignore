@@ -1,2 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
+alibaba-group/target/
+commons/src/main/resources/
+commons/src/test/
+commons/target/
+nocos-spring/nacos-spring-config-example/src/main/doc/
+nocos-spring/nacos-spring-config-example/target/
