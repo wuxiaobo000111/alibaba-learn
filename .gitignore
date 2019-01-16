@@ -12,3 +12,5 @@ nocos-spring-boot/nocos-spring-boot-config/target/
 nocos-spring-boot/target/
 nacos-spring-cloud/nacos-spring-cloud-config/target/
 nocos-spring-boot/nocos-spring-boot-discovery/target/
+nacos-spring-cloud/nacos-spring-cloud-discovery-consumer/target/
+nacos-spring-cloud/nacos-spring-cloud-discovery-producer/target/
