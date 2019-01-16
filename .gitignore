@@ -8,3 +8,5 @@ nocos-spring/nacos-spring-config-example/target/
 .gitignore
 .mvn/
 nocos-spring/nacos-spring-discovery-example/target/
+nocos-spring-boot/nocos-spring-boot-config/target/
+nocos-spring-boot/target/
