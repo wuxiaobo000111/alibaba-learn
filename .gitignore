@@ -5,3 +5,6 @@ commons/src/main/resources/
 commons/src/test/
 commons/target/
 nocos-spring/nacos-spring-config-example/target/
+.gitignore
+.mvn/
+nocos-spring/nacos-spring-discovery-example/target/
