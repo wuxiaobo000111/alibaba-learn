@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.bobo</groupId>
-    <artifactId>nocos-dubbo-producer</artifactId>
+    <artifactId>nacos-dubbo-consumer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>nocos-dubbo-producer</name>
+    <name>nacos-dubbo-consumer</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
