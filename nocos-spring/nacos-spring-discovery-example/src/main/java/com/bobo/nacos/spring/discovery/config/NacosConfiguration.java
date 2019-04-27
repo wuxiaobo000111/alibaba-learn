@@ -6,7 +6,6 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * nocos配置
- * @author wuxiaobo@didachuxing.com
  * @create 2019-01-12 17:39
  **/
 @Configuration

@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Value;
 
 
 /**
- * @author wuxiaobo@didachuxing.com
  * @create 2019-01-22 12:25
  **/
 @Service(version = "${demo.service.version}")

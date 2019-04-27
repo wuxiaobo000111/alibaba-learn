@@ -7,7 +7,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * fastjosn配置
- * @author wuxiaobo@didachuxing.com
  * @create 2019-01-12 10:32
  **/
 @Component

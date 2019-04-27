@@ -14,7 +14,6 @@ import java.util.List;
 import static org.springframework.web.bind.annotation.RequestMethod.GET;
 
 /**
- * @author wuxiaobo@didachuxing.com
  * @create 2019-01-16 15:56
  **/
 @RestController

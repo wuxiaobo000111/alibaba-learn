@@ -13,7 +13,6 @@ import java.io.IOException;
 
 /**
  * 处理中文乱码
- * @author wuxiaobo@didachuxing.com
  * @create 2019-01-12 13:20
  **/
 public class EncodingFilter implements Filter {

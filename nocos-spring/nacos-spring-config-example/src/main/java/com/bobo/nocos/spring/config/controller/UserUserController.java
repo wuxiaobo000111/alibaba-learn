@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  * useruser controller
- * @author wuxiaobo@didachuxing.com
  * @create 2019-01-12 11:03
  **/
 @Controller(value = "user")

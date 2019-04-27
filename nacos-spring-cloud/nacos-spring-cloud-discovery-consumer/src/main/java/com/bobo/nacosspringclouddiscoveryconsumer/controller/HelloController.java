@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author wuxiaobo@didachuxing.com
  * @create 2019-01-16 20:31
  **/
 @RestController

@@ -5,7 +5,6 @@ import com.bobo.nacos.dubbo.api.NacosDubboIface;
 import org.springframework.stereotype.Service;
 
 /**
- * @author wuxiaobo@didachuxing.com
  * @create 2018-12-15 13:14
  **/
 @Service

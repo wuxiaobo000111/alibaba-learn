@@ -7,7 +7,6 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * @author wuxiaobo@didachuxing.com
  * @create 2019-01-12 13:23
  **/
 public class MyRequest extends HttpServletRequestWrapper {

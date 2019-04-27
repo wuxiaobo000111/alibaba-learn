@@ -7,7 +7,6 @@ import org.springframework.stereotype.Service;
 
 /**
  * useruser service
- * @author wuxiaobo@didachuxing.com
  * @create 2019-01-12 11:02
  **/
 @Service

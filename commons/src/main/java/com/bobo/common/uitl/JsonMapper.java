@@ -10,7 +10,6 @@ import java.util.Map;
 
 /**
  * json相关
- * @author wuxiaobo@didachuxing.com
  * @create 2019-01-12 11:06
  **/
 public class JsonMapper {
